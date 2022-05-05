@@ -4,7 +4,7 @@ A commandline interface for the [pyfqmr](https://github.com/Kramer84/pyfqmr-Fast
 
 ## Motivation
 
-A simple CLI-tool for handling the details that arise 
+A simple CLI-tool for handling the pyfqmr library can be rather handy if you are only interested in reducing the size of an .stl file quickly.
 
 ## Usage
 
